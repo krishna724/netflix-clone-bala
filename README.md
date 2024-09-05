@@ -1,4 +1,4 @@
-# The app is hosted in the below:
+# Getting Started with this web app:
 I have implemented a clone of Netflix a web app which I built from scratch using ReactJS. I Have used The Movie Database (TMDB) API's to get the movies information. And hosted using Firebase a very nice and easy way to host your simple webapp (https://lnkd.in/gqUh6seR). Just for fun I have implemented this. 
 
 The functionalities I have added: 
